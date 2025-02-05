@@ -34,7 +34,7 @@ header {
 /* carousel */
 .carousel{
     margin: auto;
-    width: 1000px;
+    width: 90%;
 }
 .carousel-control-prev, .carousel-control-next {
     color:#333 ;
