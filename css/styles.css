@@ -39,6 +39,10 @@ header {
 .carousel-control-prev, .carousel-control-next {
     color:#333 ;
 }
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: black;
+}
+
 footer {
     background-color: #333;
     color: white;
