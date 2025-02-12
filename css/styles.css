@@ -10,6 +10,9 @@ header {
     color: white;
     padding: 20px;
 }
+header h1, p{
+    font-size: 132% !important;
+}
 .btn {
     display: inline-block;
     padding: 10px 20px;
@@ -18,18 +21,18 @@ header {
     text-decoration: none;
     border-radius: 5px;
 }
-.portfolio {
+.examples, .services {
     margin: 20px;
 }
-.samples img {
+/* .samples img {
     width: 200px;
     margin: 10px;
     border: 2px solid #ddd;
 }
 
-.portfolio {
+.examples {
     margin-bottom: 200px;
-}
+} */
 
 /* carousel */
 .carousel{
